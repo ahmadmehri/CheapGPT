@@ -72,5 +72,7 @@ This guide should help you fine-tune your OpenAI settings for the best experienc
 If you have any questions, feel free to reach out!
 
 https://www.youtube.com/@rockbench
+
 https://www.linkedin.com/in/seyedahmad-mehrishal/
+
 https://rockbench.ir/
