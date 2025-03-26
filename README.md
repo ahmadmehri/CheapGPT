@@ -6,7 +6,8 @@
 
 **Understanding OpenAI LLM Settings**
 
-![image](https://github.com/user-attachments/assets/6a291b3b-e7ab-45c7-a12d-bd408bdd9cd6)
+![image](https://github.com/user-attachments/assets/1d9e8779-398c-4d14-8759-bbe7c73ee36b)
+
 
 
 When configuring the OpenAISettings() function, various parameters control how the language model responds. Let’s break down each setting and explain its effect.
