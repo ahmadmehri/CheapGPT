@@ -1,7 +1,13 @@
 **Open-Source AI Chat & Text App – Flexible Desktop Tool for OpenAI API Users**
 ![splash photo for CheapGPT](https://github.com/user-attachments/assets/2c735829-50e3-4685-a75f-5609fb38a276)
 
+![image](https://github.com/user-attachments/assets/212bf6bd-85fd-429d-9c96-dc88396599f6)
+
+
 **Understanding OpenAI LLM Settings**
+
+![image](https://github.com/user-attachments/assets/6a291b3b-e7ab-45c7-a12d-bd408bdd9cd6)
+
 
 When configuring the OpenAISettings() function, various parameters control how the language model responds. Let’s break down each setting and explain its effect.
 
